@@ -29,6 +29,6 @@ matplotlib.pyplot
 datetime datetime, timedelta
 seaborn 
 plotly graph_objects 
-scipy  stats 
+scipy.stats 
 numpy 
 math 
